@@ -1,0 +1,17 @@
+{
+	"driver_simplehmd": {
+		"enable": true,
+		"serial_number": "77777777",
+		"model_number": "emul-1"
+	},
+	"simplehmd_display": {
+	    "window_x": 1920,
+	    "window_y": 1080,
+	    "window_width": 1920,
+	    "window_height": 1080,
+	    "render_width": 1920,
+	    "render_height": 1080,
+	    "vsync_to_photons": 0.011,
+	    "display_frequency": 60.0
+	}
+}

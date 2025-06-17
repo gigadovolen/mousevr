@@ -1,0 +1,77 @@
+{
+    "jsonid": "input_profile",
+    "controller_type": "<keyboard>",
+    "input_bindingui_mode": "single_device",
+    "input_bindingui_right": {
+        "image": "{mousevr}/resources/icons/kboard.png"
+    },
+    "input_source": {
+        "/input/joystick": {
+            "type": "joystick",
+            "click": false,
+            "binding_image_point": [ 100, 150 ],
+            "order": 1
+        },
+        "/input/trigger": {
+            "type": "trigger",
+            "click": true,
+            "binding_image_point": [ 100, 50 ],
+            "order": 2
+        },
+        "/input/grip": {
+            "type": "button",
+            "binding_image_point": [ 180, 100 ],
+            "order": 3
+        },
+        "/input/z/click": {
+            "type": "button",
+            "binding_image_point": [ 180, 100 ],
+            "order": 4
+        },
+        "/input/v/click": {
+            "type": "button",
+            "binding_image_point": [ 180, 100 ],
+            "order": 4
+        },
+        "/input/y/click": {
+            "type": "button",
+            "binding_image_point": [ 180, 100 ],
+            "order": 4
+        },
+        "/input/r/click": {
+            "type": "button",
+            "binding_image_point": [ 180, 100 ],
+            "order": 4
+        },
+        "/input/c/click": {
+            "type": "button",
+            "binding_image_point": [ 180, 100 ],
+            "order": 4
+        },
+        "/input/f/click": {
+            "type": "button",
+            "binding_image_point": [ 180, 100 ],
+            "order": 4
+        },
+        "/input/q/click": {
+            "type": "button",
+            "binding_image_point": [ 180, 100 ],
+            "order": 4
+        },
+        "/input/e/click": {
+            "type": "button",
+            "binding_image_point": [ 180, 100 ],
+            "order": 4
+        },
+        "/input/o/click": {
+            "type": "button",
+            "binding_image_point": [ 180, 100 ],
+            "order": 4
+        },
+        "/input/p/click": {
+            "type": "button",
+            "binding_image_point": [ 180, 100 ],
+            "order": 4
+        }
+    }
+}
